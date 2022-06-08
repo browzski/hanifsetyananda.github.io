@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/blog/2022-06-07-first-post/",
+    "result": {"data":{"markdownRemark":{"id":"1ee19c4d-7b18-560a-a666-a5ce1e2004bb","html":"<p>i'm happy setting this up!</p>\n<p>even though it just plug and play, i'll fill this with anything i want!</p>","frontmatter":{"date":"June 07, 2022","title":"First Post","description":"just started make a blog!","tags":["story"]}}},"pageContext":{"id":"1ee19c4d-7b18-560a-a666-a5ce1e2004bb"}},
+    "staticQueryHashes": ["4080856488"]}

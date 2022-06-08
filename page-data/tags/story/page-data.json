@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/story/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Hanif Nouval Setyananda"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2022-06-07-first-post/"},"frontmatter":{"title":"First Post"}}}]}},"pageContext":{"tag":"story"}},
+    "staticQueryHashes": ["4080856488"]}

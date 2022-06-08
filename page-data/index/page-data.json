@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-index-page-js",
+    "path": "/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Hanif Nouval Setyananda","image":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#283838","images":{"fallback":{"src":"/static/ba60f02522d131fa3cc481414c89e9a0/3fbb1/nbn.jpg","srcSet":"/static/ba60f02522d131fa3cc481414c89e9a0/245e5/nbn.jpg 750w,\n/static/ba60f02522d131fa3cc481414c89e9a0/3fbb1/nbn.jpg 1000w","sizes":"100vw"},"sources":[{"srcSet":"/static/ba60f02522d131fa3cc481414c89e9a0/f1c30/nbn.webp 750w,\n/static/ba60f02522d131fa3cc481414c89e9a0/27c85/nbn.webp 1000w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":0.563}}},"heading":"\"It will never perfect, make it work\"","subheading":"Just your ordinary mob","mainpitch":{"title":"Just a simple website","description":"I'll fill this with my coding journey"},"description":"sa","intro":{"blurbs":[],"heading":"adsd","description":"sadsa"}}}},"pageContext":{"id":"90d349b4-5d11-5d48-a500-bcf49e93cb48"}},
+    "staticQueryHashes": ["1324706516","4080856488"]}
